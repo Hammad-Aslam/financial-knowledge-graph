@@ -1,0 +1,23 @@
+{
+  "mlflow_run_id": "ad81b143c3f54f658c6c371ae5ae0f05",
+  "phase": 2,
+  "total_texts": 89390,
+  "total_words": 6352363,
+  "avg_words": 71.1,
+  "median_words": 37.0,
+  "sources": {
+    "finance_alpaca": 56580,
+    "fingpt_sentiment": 17041,
+    "twitter_finance": 9172,
+    "financial_classification": 4521,
+    "sec_edgar": 932,
+    "auditor_sentiment": 468,
+    "flare_ner": 407,
+    "fiqa_2018": 195,
+    "yahoo_finance": 42,
+    "seeking_alpha": 23,
+    "marketwatch": 9
+  },
+  "duplicates": 0,
+  "nulls": 0
+}

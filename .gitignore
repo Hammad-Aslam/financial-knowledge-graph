@@ -1,0 +1,26 @@
+# Models (too large for GitHub)
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+frontend/financial-kg-ui/node_modules/
+frontend/financial-kg-ui/.next/
+
+# MLflow
+mlruns/
+
+# Data
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+Desktop.ini
